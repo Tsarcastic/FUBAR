@@ -4,7 +4,7 @@ This is the second sentence from Brendan and Chai.
 This is another sentence from Alice.
 Second message from Alice.
 
-Some more stuffff 
+Some more stuffff
 =======
 
 lets fubar this Stuff
@@ -18,4 +18,4 @@ There is  more Stuff in FUBAR
 
 FUBAR FUBAR FUBAR.
 
-
+FRIDAY FRIDAY FRIDAY
